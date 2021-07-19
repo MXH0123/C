@@ -1,0 +1,2 @@
+int arr[3][3];
+memset(arr, 0, sizeof(arr));
